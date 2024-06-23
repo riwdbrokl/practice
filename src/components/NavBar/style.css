@@ -1,0 +1,13 @@
+.header {
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.header .back img,
+.header .user img {
+    width: 25px;
+}

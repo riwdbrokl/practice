@@ -1,0 +1,60 @@
+.vacancies {
+  background-color: white;
+  padding: 20px;
+
+}
+
+.vacancies h2 {
+  text-align: center;
+  font-size: 20px;
+
+}
+
+.vacancies p {
+  text-align: center;
+  font-size: 15px;
+}
+.city-selector {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.select_wrp {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.vacancy-grid {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 1fr 1fr;
+  gap: 7px;
+}
+.vacancy {
+  background-color: #f1f1f1;
+  border: 2px solid #8d8d8d;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.vacancy h3 {
+  font-size: 18px;
+  color: #585858;
+}
+
+.vacancy p {
+  color: #585858;
+}
+
+.vacancy button {
+  justify-content: center;
+  background-color: #d5101c;
+  color: white;
+  border: none;
+  padding: 2px 20px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
